@@ -1,2 +1,3 @@
 # Resume-on-go
-resume
+Repo for my Resume ..
+
